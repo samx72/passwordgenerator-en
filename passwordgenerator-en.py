@@ -8,11 +8,11 @@ length = int(input("enter the length of password (number): "))
 lower = string.ascii_lowercase
 upper = string.ascii_uppercase
 num = string.digits
-symbols = string.punctuation
 
-all = lower + upper + num + symbols
+all = lower + upper + num
 
 temp = random.sample(all, length)
 password = "".join(temp)
 print(password)
 
+input("press enter to exit")
