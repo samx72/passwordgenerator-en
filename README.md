@@ -1,4 +1,4 @@
-# passwordgenerator-en
+# OPEN IN PYTHON OR OPEN IN IDLESHELL,VSC,ATOM OR OTHER PROGRAM AND RUN IT
 
 randompasswordgenerator in language English
 
