@@ -3,6 +3,5 @@
 randompasswordgenerator in language English
 
 
-first run installrequirements.bat
+first run req.bat
 
-second run passwordgenerator.py and enjoy
